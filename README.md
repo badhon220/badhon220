@@ -131,9 +131,7 @@ Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about
   <img src="./profile/langs.svg" width="49%" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badhon220&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="80%"/>
-</p>
+
 
 ---
 
