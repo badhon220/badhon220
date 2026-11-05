@@ -93,10 +93,12 @@ Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about
 
 ## 📊 GitHub Statistics
 
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=badhon220&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=badhon220&theme=chartreuse-dark&hide_border=true" />
+  <img src="./profile/user.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile/langs.svg" width="49%" alt="Top Languages" />
 </p>
+
 
 <p align="center">
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhon220&layout=compact&theme=chartreuse-dark&hide_border=true" />
