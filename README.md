@@ -135,11 +135,6 @@ Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badhon220&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
 
 ---
 
