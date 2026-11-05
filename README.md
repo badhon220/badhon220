@@ -29,11 +29,10 @@ Badhon Mondol
 └─$ cat identity.txt
 
 Name       : Badhon Mondol
-Role       : Cyber Security Student
-University : UFTB
-Interest   : Ethical Hacking
-Focus      : Security Research
-Mindset    : Think Like An Attacker
+Role       : UnEt* H**k*r
+University : ****
+Interest   : OSINT, Malware Analysis
+Focus      : Your System
 
 ┌──(badhon㉿kali)-[~]
 └─$ echo "Welcome to my profile!"
@@ -43,16 +42,16 @@ Mindset    : Think Like An Attacker
 
 Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about cybersecurity, ethical hacking, and digital security research.
 
-- 🎓 Cyber Security Engineering Student at UFTB.
+- 🎓 Cyber Security Engineering Student at ****.
 - 🔐 Interested in Ethical Hacking & Penetration Testing.
 - 🦠 Exploring Malware Analysis.
 - 🌐 Learning Network & Web Application Security.
-- 🔍 Interested in OSINT & Digital Forensics.
+- 🔍 Interested in OSINT & Malware Analysis.
 - 🐧 Exploring Linux and Kali Linux.
 - 🐍 Learning Python for Security Automation.
 - 💻 Studying C Programming and System Fundamentals.
 
-> "Think like an attacker. Build like an engineer. Defend like a professional."
+> "NO MONEY, NO HONEY"
 
 ---
 
@@ -69,7 +68,7 @@ Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about
 | 🛡️ Web Security | OWASP Top 10, Burp Suite |
 | 🦠 Malware Analysis | Static & Dynamic Analysis |
 | 🔎 OSINT | Open Source Intelligence |
-| 🕵️ Digital Forensics | Investigation & Evidence |
+| 🕵️ Malware Analysis | Investigation & Evidence |
 | 🐧 Linux | Kali Linux, Administration |
 | 📡 Network Analysis | Wireshark, Nmap |
 
