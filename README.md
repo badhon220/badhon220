@@ -1,5 +1,5 @@
 
-# 🛡️ BADHON MONDOL | CYBER SECURITY
+# 🛡️ Hi there, I'm Badhon Mondol! 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a0d,70:003d1f,100:00ff66&height=220&section=header&text=BADHON%20MONDOL&fontSize=48&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20ETHICAL%20HACKING%20%7C%20RESEARCH&descSize=14&descAlignY=60" width="100%"/>
