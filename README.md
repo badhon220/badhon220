@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+INITIALIZED+%5D;Welcome+to+Badhon's+Cyber+World;Aspiring+Cyber+Security+Researcher;Ethical+Hacking+%7C+Malware+Analysis;OSINT+%7C+Network+Security;Think+Like+An+Attacker+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+INITIALIZED+%5D;Welcome+to+Badhon's+Cyber+World;Aspiring+Cyber+Security+Researcher;Ethical+Hacking+%7C+Malware+Analysis;OSINT+%7C+Network+Security;NO+MONEY+NO+HONEY+%F0%9F%94%90" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Interest   : OSINT, Malware Analysis
 Focus      : Your System
 
 ┌──(badhon㉿kali)-[~]
-└─$ echo "Welcome to my profile!"
+└─$ echo "Just Hire And Relax"
 ```
 
 ## 👨‍💻 ABOUT ME
