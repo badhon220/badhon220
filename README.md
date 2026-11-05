@@ -170,5 +170,5 @@ Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about
 </p>
 
 <p align="center">
-  <b>⚡ STAY CURIOUS • KEEP LEARNING • KEEP SECURING ⚡</b>
+  <b>⚡ STAY CURIOUS • KEEP LEARNING • KEEP EARNING • KEEP SECURING ⚡</b>
 </p>
