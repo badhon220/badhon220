@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="495" height="190" viewBox="0 0 495 190">
+    <rect width="495" height="190" rx="12" fill="#0d1117"
+          stroke="#30363d"/>
+    <text x="30" y="38" fill="#00ff66" font-size="18"
+          font-weight="bold">Top Languages</text>
+    <line x1="30" y1="50" x2="465" y2="50"
+          stroke="#30363d"/>
+    
+        <text x="30" y="80" fill="#c9d1d9"
+              font-size="13">C</text>
+        <rect x="150" y="68" width="270" height="10"
+              rx="5" fill="#30363d"/>
+        <rect x="150" y="68" width="235.27" height="10"
+              rx="5" fill="#00ff66"/>
+        <text x="460" y="80" fill="#00ff66"
+              font-size="12" text-anchor="end">
+              87.1%
+        </text>
+        
+        <text x="30" y="103" fill="#c9d1d9"
+              font-size="13">HTML</text>
+        <rect x="150" y="91" width="270" height="10"
+              rx="5" fill="#30363d"/>
+        <rect x="150" y="91" width="14.30" height="10"
+              rx="5" fill="#00ff66"/>
+        <text x="460" y="103" fill="#00ff66"
+              font-size="12" text-anchor="end">
+              5.3%
+        </text>
+        
+        <text x="30" y="126" fill="#c9d1d9"
+              font-size="13">CSS</text>
+        <rect x="150" y="114" width="270" height="10"
+              rx="5" fill="#30363d"/>
+        <rect x="150" y="114" width="12.94" height="10"
+              rx="5" fill="#00ff66"/>
+        <text x="460" y="126" fill="#00ff66"
+              font-size="12" text-anchor="end">
+              4.8%
+        </text>
+        
+        <text x="30" y="149" fill="#c9d1d9"
+              font-size="13">JavaScript</text>
+        <rect x="150" y="137" width="270" height="10"
+              rx="5" fill="#30363d"/>
+        <rect x="150" y="137" width="6.28" height="10"
+              rx="5" fill="#00ff66"/>
+        <text x="460" y="149" fill="#00ff66"
+              font-size="12" text-anchor="end">
+              2.3%
+        </text>
+        
+        <text x="30" y="172" fill="#c9d1d9"
+              font-size="13">Python</text>
+        <rect x="150" y="160" width="270" height="10"
+              rx="5" fill="#30363d"/>
+        <rect x="150" y="160" width="1.20" height="10"
+              rx="5" fill="#00ff66"/>
+        <text x="460" y="172" fill="#00ff66"
+              font-size="12" text-anchor="end">
+              0.4%
+        </text>
+        
+    </svg>
