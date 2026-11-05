@@ -162,7 +162,7 @@ Hi! I'm **Badhon Mondol**, a Cyber Security Engineering student passionate about
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=%5B+ACCESS+GRANTED+%5D;Stay+Curious+%E2%9A%A1+Keep+Learning;Keep+Securing+%F0%9F%9B%A1%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=%5B+ACCESS+GRANTED+%5D;Stay+Curious+%E2%9A%A1+Keep+Learning;Keep+Earning;Keep+Securing+%F0%9F%9B%A1%EF%B8%8F" />
 </p>
 
 <p align="center">
