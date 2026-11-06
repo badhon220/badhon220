@@ -11,40 +11,40 @@
               font-size="13">C</text>
         <rect x="150" y="68" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="68" width="235.27" height="10"
+        <rect x="150" y="68" width="235.77" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="80" fill="#00ff66"
               font-size="12" text-anchor="end">
-              87.1%
+              87.3%
         </text>
         
         <text x="30" y="103" fill="#c9d1d9"
               font-size="13">HTML</text>
         <rect x="150" y="91" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="91" width="14.30" height="10"
+        <rect x="150" y="91" width="14.10" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="103" fill="#00ff66"
               font-size="12" text-anchor="end">
-              5.3%
+              5.2%
         </text>
         
         <text x="30" y="126" fill="#c9d1d9"
               font-size="13">CSS</text>
         <rect x="150" y="114" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="114" width="12.94" height="10"
+        <rect x="150" y="114" width="12.76" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="126" fill="#00ff66"
               font-size="12" text-anchor="end">
-              4.8%
+              4.7%
         </text>
         
         <text x="30" y="149" fill="#c9d1d9"
               font-size="13">JavaScript</text>
         <rect x="150" y="137" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="137" width="6.28" height="10"
+        <rect x="150" y="137" width="6.19" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="149" fill="#00ff66"
               font-size="12" text-anchor="end">
@@ -55,7 +55,7 @@
               font-size="13">Python</text>
         <rect x="150" y="160" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="160" width="1.20" height="10"
+        <rect x="150" y="160" width="1.19" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="172" fill="#00ff66"
               font-size="12" text-anchor="end">
