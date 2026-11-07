@@ -9,7 +9,7 @@
     
         <text x="30" y="75" fill="#c9d1d9" font-size="13">Public Repositories</text>
         <text x="455" y="75" fill="#00ff66" font-size="14"
-              text-anchor="end" font-weight="bold">8</text>
+              text-anchor="end" font-weight="bold">9</text>
         
         <text x="30" y="104" fill="#c9d1d9" font-size="13">Followers</text>
         <text x="455" y="104" fill="#00ff66" font-size="14"
