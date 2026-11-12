@@ -11,55 +11,55 @@
               font-size="13">C</text>
         <rect x="150" y="68" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="68" width="188.76" height="10"
+        <rect x="150" y="68" width="190.70" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="80" fill="#00ff66"
               font-size="12" text-anchor="end">
-              69.9%
+              70.6%
         </text>
         
         <text x="30" y="103" fill="#c9d1d9"
               font-size="13">Rust</text>
         <rect x="150" y="91" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="91" width="44.72" height="10"
+        <rect x="150" y="91" width="43.65" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="103" fill="#00ff66"
               font-size="12" text-anchor="end">
-              16.6%
+              16.2%
         </text>
         
         <text x="30" y="126" fill="#c9d1d9"
               font-size="13">HTML</text>
         <rect x="150" y="114" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="114" width="11.29" height="10"
+        <rect x="150" y="114" width="11.02" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="126" fill="#00ff66"
               font-size="12" text-anchor="end">
-              4.2%
+              4.1%
         </text>
         
         <text x="30" y="149" fill="#c9d1d9"
               font-size="13">CSS</text>
         <rect x="150" y="137" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="137" width="10.21" height="10"
+        <rect x="150" y="137" width="9.97" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="149" fill="#00ff66"
               font-size="12" text-anchor="end">
-              3.8%
+              3.7%
         </text>
         
         <text x="30" y="172" fill="#c9d1d9"
               font-size="13">Python</text>
         <rect x="150" y="160" width="270" height="10"
               rx="5" fill="#30363d"/>
-        <rect x="150" y="160" width="6.65" height="10"
+        <rect x="150" y="160" width="6.49" height="10"
               rx="5" fill="#00ff66"/>
         <text x="460" y="172" fill="#00ff66"
               font-size="12" text-anchor="end">
-              2.5%
+              2.4%
         </text>
         
     </svg>
